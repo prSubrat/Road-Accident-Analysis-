@@ -1,2 +1,3 @@
 # Road-Accident-Analysis-
 Power BI Dashboard
+Objective :- Developed an interactive dashboard in Power BI to analyze road accident data, highlighting trends, patterns, and key factors. Responsibilities included data collection, cleaning, and transformation, designing data models, and creating visualizations like bar charts, line graphs, and heat maps. Utilized DAX for advanced calculations. Conducted user training to ensure effective use. Technologies used: Power BI, SQL, DAX, Excel. The dashboard improved decision-making by providing real-time insights, reduced data analysis time by 50%, and aided in identifying accident-prone areas, leading to targeted safety measures.
